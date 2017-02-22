@@ -2,6 +2,6 @@
 
 hello world
 
-this is the first code,l like software.
+this is the first code.
 
 
